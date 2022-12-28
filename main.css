@@ -1,0 +1,24 @@
+body{
+    background-color: bisque;
+}
+main{
+    display: inline-block;
+    width: 800px;
+    margin-left: calc(50% - 400px);
+    margin-top: 150px;
+    font-family:fantasy;
+    color: #CCCBC5;
+    background-image: url(./bg.bmp);
+}
+h1
+{
+    margin: 0;
+    font-size: 75px;
+    line-height: 1em;
+    font-weight: normal;
+}
+p{
+    margin: 0;
+    font-style: italic;
+    text-transform: capitalize;
+}
