@@ -10,6 +10,13 @@ main{
     color: #CCCBC5;
     background-image: url(./bg.bmp);
 }
+div{
+    display: inline-block;
+    margin-left: 240px;
+    margin-top: 270px;
+    margin-bottom: 230px;
+    background-color: #817E76;
+}
 h1
 {
     margin: 0;
